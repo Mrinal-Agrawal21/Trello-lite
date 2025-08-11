@@ -1,10 +1,3 @@
-# ⚔️ Layer 3: Illusion Weaver — The Kanban Challenge
-
-> _"To control the flow of tasks is to control the illusion of productivity."_  
-> — Master Abhimanyu
-
----
-
 ## 🧠 Trial Description
 
 **Build a Trello-like Kanban Task Manager** using **React**, **Tailwind CSS**, and **React Context API** or **Zustand**. This trial tests your grip over state management, drag-and-drop interfaces, and component architecture.
@@ -20,19 +13,13 @@ This is not just a UI challenge — it’s a lesson in organizing chaos.
 - [ ] Multiple task lists (e.g., To Do, In Progress, Done)
 - [ ] Cards within lists with:
   - Title
-  - Description
-  - Tags/Labels
-  - Modal-based edit
 - [ ] Drag-and-Drop across lists using `dnd-kit` or `React DnD`
 - [ ] Add/Edit/Delete both Lists and Cards
 - [ ] Responsive layout with **Tailwind CSS**
-- [ ] Mobile-friendly UX
 
 ### 🧠 State Logic
 
 - [ ] Global state via **React Context** or **Zustand**
-- [ ] LocalStorage sync (auto-save)
-- [ ] Derived states: count, card filters, tag views
 
 ### 🧼 Clean Code Practices
 
@@ -52,30 +39,6 @@ This is not just a UI challenge — it’s a lesson in organizing chaos.
 
 ---
 
-## 🔥 Bonus Challenges (Not Mandatory, but Valued)
-
-- [ ] Dark Mode toggle
-- [ ] Task deadline & due-date sorting
-- [ ] Global tag filter
-- [ ] Card cover image upload (using base64)
-- [ ] Undo/Redo functionality (state snapshots)
-
----
-
-## 🧪 Master’s Evaluation Rubric
-
-| Category               | Weight  | Pass Criteria                                         |
-|------------------------|---------|-------------------------------------------------------|
-| UI / UX                | 25 pts  | Clean, modern, responsive design                      |
-| State Architecture     | 25 pts  | Effective global state flow + persistence             |
-| Code Structure         | 20 pts  | DRY, modular, readable                                |
-| Functionality          | 20 pts  | All major features work smoothly                     |
-| Extras (Bonus Feats)   | 10 pts  | Show your initiative with extra touches               |
-
-Total: **100 points**.  
-**Passing Score: 80+**
-
----
 
 ## 🧭 Folder Structure Suggestion
 
